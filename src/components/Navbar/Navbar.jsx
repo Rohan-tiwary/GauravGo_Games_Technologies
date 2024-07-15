@@ -16,6 +16,7 @@ const Navbar = () => {
                 <li className='connect'>CONNECT</li>
                 </div>
             </ul>
+            <button>For check</button>
             </nav>
         </div>
     )
